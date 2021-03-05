@@ -18,3 +18,11 @@ Como criar  repositório, pasta, link, enviar para github e VS Code, viser e ver
 ## Como Subir, enviar do GitHub para o VS Code?
 
 ## Como subir o arquivo do VS Code para o GitHub?
+
+## Como criar o projeto no terminal do VS Code?
+1. Criar uma pasta com o nome do projeto que será desenvolvido.
+2. Abra o VS Code
+3. abrar esta pasta vo VS Code em: arquivo -> abrir pasta
+4. Terminal -> Novo Terminal
+5. Digite o comando no terminal: yarn create next-app projetoteste( Onde next-app irá criar o projeto ao qual foi escolhido o nome, neste exemplo é o projeto: projetoteste) o nome do projeto não pode ter nenhum caracter especil, como por exemplo letra maiuscula, tá.
+6. Este comendo irá criar a pasto com o nome do projeto passado, informado.
